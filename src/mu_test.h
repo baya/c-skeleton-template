@@ -1,6 +1,6 @@
 #undef NDEBUG
-#ifndef _minunit_h
-#define _minunit_h
+#ifndef _mu_test_h
+#define _mu_test_h
 
 #include <stdio.h>
 #include <dbg.h>
